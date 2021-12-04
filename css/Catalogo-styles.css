@@ -384,7 +384,7 @@ body{
 }
 
 @media only screen and (max-width:773px){
-    .our-projects .container-project .project-img img{width: 80%; margin-bottom: 30px;}
+    .our-projects .container-project .project-img a{width: 80%; margin-bottom: 30px;}
 }
 @media only screen and (max-width:446px){
     .our-projects .container-project .project-title h2{font-size: 30px;}
