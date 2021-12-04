@@ -1,0 +1,14 @@
+#BOLD {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.logo-inicio {
+    width: 250px;
+    padding: 10px;
+}
+
+
+.logo-inicio > img {
+    width: 100px;
+}

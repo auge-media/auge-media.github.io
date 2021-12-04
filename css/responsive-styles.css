@@ -1,0 +1,31 @@
+.logo-header {
+    width: 300px;
+    padding: 10px;
+}
+
+@media only screen and (max-width:420px){
+    .img-header .welcome h1{
+        font-size: 25px;}
+    .img-header .welcome hr{
+        width: 100px;}
+    .img-header .welcome p{
+        font-size: 15px;}
+    .img-header .welcome > button{
+        width: 100px; font-size: 17px;}
+}
+/*
+@media only screen and (max-width:360px){
+    .img-header .welcome h1{
+        font-size: 20px;}
+    .img-header .welcome hr{
+        width: 100px;}
+    .img-header .welcome p{
+        font-size: 10px;}
+    .img-header .welcome > button{
+        width: 100px; font-size: 17px;}
+
+    .logo-header {
+        width: 200px;
+        padding: 10px;
+    }
+}*/
