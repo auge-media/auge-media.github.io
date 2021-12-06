@@ -42,11 +42,11 @@ enlaces.forEach((element) => {
 /*
 //Scroll Efect
 
- let prevScrollPos = window.pageYOffset;
+ let prevScrollPos = window.pageYOffset;*/ 
  let goTop = document.querySelector('.go-top');
-
+ 
 window.onscroll = () => {
-  
+
   //Hide & Show - Scroll Menu (Function)
   let currentScrollPos = window.pageYOffset;
 
@@ -75,7 +75,7 @@ window.onscroll = () => {
     goTop.style.right = '0px';
   }
   
-}*/
+}
 
 //Go Top Click
 goTop.addEventListener('click', () => {
